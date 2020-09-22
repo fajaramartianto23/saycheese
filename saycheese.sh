@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v1.0
-# coded by: github.com/Anonymous3-SIT/saycheese
+# coded by: github.com/MrX/saycheese
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
@@ -15,7 +15,7 @@ printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m |___| | | |  __/  __/\__ \  __
 printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m\____|_| |_|\___|\___||___/\___| \e[0m\n"
 printf "\e[1;92m              |___/ \e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by github.com/Aonymous3-SIT/saycheese\e[0m \n"
+printf " \e[1;77m v1.0 coded by github.com/MrX/saycheese\e[0m \n"
 
 printf "\n"
 
